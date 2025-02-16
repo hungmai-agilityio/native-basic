@@ -1,8 +1,24 @@
 {
   "products": [],
   "category": [],
-  "users": [],
-  "profiles": [],
+  "users": [
+    {
+      "email": "demo@gmail.com",
+      "password": "$2a$10$mgrVLuuKKoqElWgMT0viy.LUu0H.SgB8PHD/18TIwRXqgYKjop.d6",
+      "confirm": "demo123",
+      "name": "Zero One",
+      "id": "f3d3b17e-7d74-4d68-bdc0-6591ac9d482d",
+      "created_at": "2025-02-16T12:41:45.095Z",
+      "updated_at": "2025-02-16T12:41:45.095Z"
+    }
+  ],
+  "profiles": [
+    {
+      "id": "5d4e344f-8a8c-4d00-b8c5-7b4ad30f62b9",
+      "userId": "f3d3b17e-7d74-4d68-bdc0-6591ac9d482d",
+      "avatar": ""
+    }
+  ],
   "cart": [],
   "wishlist": []
 }
