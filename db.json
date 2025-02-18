@@ -258,9 +258,9 @@
       {
         "id": "e1f2g3h4-i5j6k7l8-m9n0o1p2-q3r4s5t6",
         "images": [
-          "https://i.ibb.co/4ZC2PBwk/bed-5.webp",
-          "https://i.ibb.co/3mWf4J7L/bed-5-1-2-11zon.webp",
-          "https://i.ibb.co/s9NkpVjZ/bed-5-2.webp"
+          "https://i.ibb.co/NgBX6xDm/arm-5.webp",
+          "https://i.ibb.co/B2nq5FXG/arm-5-1.webp",
+          "https://i.ibb.co/7NT6RxyM/arm-5-2.webp"
         ],
         "name": "Cozy Sofa",
         "price": 350,
@@ -268,7 +268,7 @@
         "review": 180,
         "stock": 7,
         "desc": "A cozy sofa perfect for relaxing with a soft and supportive cushion.",
-        "category": "Sofa"
+        "category": "Armchair"
       }
     ],
     "users": [
