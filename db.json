@@ -11,7 +11,7 @@
         "price": 90,
         "rating": 4.7,
         "review": 160,
-        "stock": 6,
+        "stock": 361,
         "desc": "A soft and cozy armchair for maximum relaxation.",
         "category": "Armchair"
       },
@@ -26,7 +26,7 @@
         "price": 120,
         "rating": 4.5,
         "review": 80,
-        "stock": 10,
+        "stock": 101,
         "desc": "A sleek coffee table perfect for modern living rooms.",
         "category": "Table"
       },
@@ -41,7 +41,7 @@
         "price": 150,
         "rating": 4.9,
         "review": 220,
-        "stock": 3,
+        "stock": 322,
         "desc": "A comfortable luxury chair with high-quality materials.",
         "category": "Chair"
       },
@@ -56,7 +56,7 @@
         "price": 180,
         "rating": 4.7,
         "review": 190,
-        "stock": 4,
+        "stock": 114,
         "desc": "A sturdy wooden bed with a rustic finish.",
         "category": "Bed"
       },
@@ -71,7 +71,7 @@
         "price": 250,
         "rating": 4.8,
         "review": 220,
-        "stock": 5,
+        "stock": 544,
         "desc": "A stylish and comfortable bed with a modern design.",
         "category": "Bed"
       },
@@ -86,7 +86,7 @@
         "price": 130,
         "rating": 4.6,
         "review": 180,
-        "stock": 5,
+        "stock": 355,
         "desc": "A vintage chair that adds a timeless appeal.",
         "category": "Chair"
       },
@@ -101,7 +101,7 @@
         "price": 220,
         "rating": 4.8,
         "review": 210,
-        "stock": 3,
+        "stock": 3104,
         "desc": "A beautiful wooden dining table for family gatherings.",
         "category": "Table"
       },
@@ -116,7 +116,7 @@
         "price": 120,
         "rating": 4.6,
         "review": 140,
-        "stock": 5,
+        "stock": 547,
         "desc": "A vintage armchair that adds a classic touch to your home.",
         "category": "Armchair"
       },
@@ -131,7 +131,7 @@
         "price": 350,
         "rating": 4.9,
         "review": 250,
-        "stock": 2,
+        "stock": 255,
         "desc": "A luxurious bed with premium comfort and materials.",
         "category": "Bed"
       },
@@ -146,7 +146,7 @@
         "price": 200,
         "rating": 4.7,
         "review": 180,
-        "stock": 4,
+        "stock": 458,
         "desc": "A classic dining table perfect for family meals.",
         "category": "Table"
       },
@@ -161,7 +161,7 @@
         "price": 150,
         "rating": 4.9,
         "review": 200,
-        "stock": 3,
+        "stock": 320,
         "desc": "A premium armchair with high-quality materials.",
         "category": "Armchair"
       },
@@ -176,7 +176,7 @@
         "price": 110,
         "rating": 4.6,
         "review": 175,
-        "stock": 7,
+        "stock": 71,
         "desc": "A contemporary chair designed for modern spaces.",
         "category": "Chair"
       },
@@ -191,7 +191,7 @@
         "price": 200,
         "rating": 4.6,
         "review": 170,
-        "stock": 6,
+        "stock": 66,
         "desc": "A classic bed with an elegant design.",
         "category": "Bed"
       },
@@ -206,7 +206,7 @@
         "price": 150,
         "rating": 4.9,
         "review": 200,
-        "stock": 3,
+        "stock": 371,
         "desc": "A premium armchair with high-quality materials.",
         "category": "Armchair"
       },
@@ -221,7 +221,7 @@
         "price": 120,
         "rating": 4.3,
         "review": 85,
-        "stock": 15,
+        "stock": 125,
         "desc": "A comfortable gaming chair with soft padding and ergonomic design.",
         "category": "Chair"
       },
@@ -236,7 +236,7 @@
         "price": 150,
         "rating": 4.7,
         "review": 120,
-        "stock": 10,
+        "stock": 101,
         "desc": "A modern table with a sleek, minimalist design.",
         "category": "Table"
       },
@@ -251,7 +251,7 @@
         "price": 500,
         "rating": 4.9,
         "review": 220,
-        "stock": 4,
+        "stock": 655,
         "desc": "A spacious king size bed with a plush mattress for ultimate comfort.",
         "category": "Bed"
       },
@@ -266,9 +266,39 @@
         "price": 350,
         "rating": 4.5,
         "review": 180,
-        "stock": 7,
+        "stock": 781,
         "desc": "A cozy sofa perfect for relaxing with a soft and supportive cushion.",
         "category": "Armchair"
+      },
+      {
+        "id": "m1e2f3g4-i6j7k8-n9m0n1o2-h3q4r5s6",
+        "images": [
+          "https://i.ibb.co/dsNXN0PJ/chair-5.webp",
+          "https://i.ibb.co/3ycKGYJy/chair-5-1.webp",
+          "https://i.ibb.co/35vbk1y0/chair-5-2.webp"
+        ],
+        "name": "Solid Wood Leather Chair",
+        "price": 100,
+        "rating": 4.9,
+        "review": 120,
+        "stock": 150,
+        "desc": "Hans Wegner Style Mid Century Modern Shell Lounge Chair Leather Solid Wood Chair",
+        "category": "Chair"
+      },
+      {
+        "id": "e1f2g3h4-i5j6k7l8-m9n0o1p2-q3r4s5t6",
+        "images": [
+          "https://i.ibb.co/rGzLtMS0/tab-5.webp",
+          "https://i.ibb.co/v6bZ3ykt/tab-5-1.webp",
+          "https://i.ibb.co/S7nB18n5/tab-5-2.webp"
+        ],
+        "name": "garden coffee table",
+        "price": 660,
+        "rating": 4.5,
+        "review": 180,
+        "stock": 1105,
+        "desc": "Garden coffee tables are suitable for houses with small gardens.",
+        "category": "Table"
       }
     ],
     "users": [
