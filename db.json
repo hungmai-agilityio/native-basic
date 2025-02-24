@@ -266,7 +266,7 @@
         "price": 350,
         "rating": 4.5,
         "review": 180,
-        "stock": 781, 
+        "stock": 781,
         "desc": "A cozy sofa perfect for relaxing with a soft and supportive cushion.",
         "category": "Armchair"
       },
@@ -320,5 +320,8 @@
       }
     ],
     "cart": [],
-    "wishlist": []
+    "wishlist": [],
+    "address": [],
+    "payment": [],
+    "order": []
   }
