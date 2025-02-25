@@ -321,7 +321,41 @@
     ],
     "cart": [],
     "wishlist": [],
-    "address": [],
+    "address": [
+      {
+        "id": "1",
+        "userId": "f3d3b17e-7d74-4d68-bdc0-6591ac9d482d",
+        "receiver": "John Doe",
+        "address": "25 rue Robert Latouche",
+        "zip": "06200",
+        "country": "France",
+        "city": "Nice",
+        "district": "Côte D’azur",
+        "isDefault": true
+      },
+      {
+        "id": "2",
+        "userId": "f3d3b17e-7d74-4d68-bdc0-6591ac9d482d",
+        "receiver": "Jane Smith",
+        "address": "456 Office Park",
+        "zip": "94105",
+        "country": "USA",
+        "city": "San Francisco",
+        "district": "Downtown",
+        "isDefault": false
+      },
+      {
+        "id": "3",
+        "userId": "f3d3b17e-7d74-4d68-bdc0-6591ac9d482d",
+        "receiver": "Michael Brown",
+        "address": "789 Family Road",
+        "zip": "77001",
+        "country": "USA",
+        "city": "Houston",
+        "district": "Suburbs",
+        "isDefault": false
+      }
+    ],
     "payment": [],
     "order": []
   }
