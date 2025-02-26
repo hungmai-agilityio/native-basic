@@ -329,8 +329,8 @@
         "address": "25 Xa Dien Tho",
         "zip": "123456",
         "country": "VN",
-        "city": "Tỉnh Quảng Nam",
-        "district": "Thị xã Điện Bàn",
+        "city": "49",
+        "district": "507",
         "isDefault": true
       },
       {
@@ -340,8 +340,8 @@
         "address": "25 nguyen khuyen",
         "zip": "764378",
         "country": "VN",
-        "city": "Tỉnh Quảng Bình",
-        "district": "Huyện Quảng Trạch",
+        "city": "44",
+        "district": "454",
         "isDefault": false
       }
     ],
