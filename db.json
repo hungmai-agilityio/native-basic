@@ -323,39 +323,49 @@
     "wishlist": [],
     "address": [
       {
-        "id": "1",
+        "id": "8042b2b2-46c1-4d11-a838-eb5c3a2fec1a",
         "userId": "f3d3b17e-7d74-4d68-bdc0-6591ac9d482d",
-        "receiver": "John Doe",
-        "address": "25 rue Robert Latouche",
-        "zip": "06200",
-        "country": "France",
-        "city": "Nice",
-        "district": "Côte D’azur",
+        "receiver": "Zero One",
+        "address": "25 Xa Dien Tho",
+        "zip": "123456",
+        "country": "VN",
+        "city": "Tỉnh Quảng Nam",
+        "district": "Thị xã Điện Bàn",
         "isDefault": true
       },
       {
-        "id": "2",
+        "id": "eb4d06b1-cfac-41bc-8996-40f61aa0804b",
         "userId": "f3d3b17e-7d74-4d68-bdc0-6591ac9d482d",
-        "receiver": "Jane Smith",
-        "address": "456 Office Park",
-        "zip": "94105",
-        "country": "USA",
-        "city": "San Francisco",
-        "district": "Downtown",
-        "isDefault": false
-      },
-      {
-        "id": "3",
-        "userId": "f3d3b17e-7d74-4d68-bdc0-6591ac9d482d",
-        "receiver": "Michael Brown",
-        "address": "789 Family Road",
-        "zip": "77001",
-        "country": "USA",
-        "city": "Houston",
-        "district": "Suburbs",
+        "receiver": "test demo",
+        "address": "25 nguyen khuyen",
+        "zip": "764378",
+        "country": "VN",
+        "city": "Tỉnh Quảng Bình",
+        "district": "Huyện Quảng Trạch",
         "isDefault": false
       }
     ],
-    "payment": [],
+    "payment": [
+      {
+        "name": "Zero One",
+        "cardNum": "7894561233216547",
+        "cvv": "1111",
+        "expDate": "02/29",
+        "id": "f5349246-0800-4731-93a4-de8ac7c62a8d",
+        "userId": "f3d3b17e-7d74-4d68-bdc0-6591ac9d482d",
+        "isDefault": true,
+        "isVisa": false
+      },
+      {
+        "name": "Zero One",
+        "cardNum": "7897418527856495",
+        "cvv": "8975",
+        "expDate": "09/27",
+        "id": "db19d32c-4e37-4295-8321-1c6146227fe6",
+        "userId": "f3d3b17e-7d74-4d68-bdc0-6591ac9d482d",
+        "isDefault": false,
+        "isVisa": true
+      }
+    ],
     "order": []
   }
